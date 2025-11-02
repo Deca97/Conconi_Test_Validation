@@ -32,9 +32,6 @@ Each file includes:
 Tests were conducted at the Human Performance Laboratory, School of Medicine, Trinity College Dublin.
 
 ## 📦 Features
-* Polynomial resampling and Savitzky-Golay smoothing
-
-* IQR-based outlier removal
 
 * Piecewise linear fitting (PWLF)
 
