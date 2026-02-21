@@ -1,5 +1,6 @@
 # 🧪 Conconi Test Threshold Estimation
-This project automates the estimation of aerobic and anaerobic thresholds using heart rate and lactate data from Conconi tests. It processes multiple athlete datasets, fits piecewise linear models, and compares threshold estimates across methods.
+This project automates the estimation of aerobic and anaerobic thresholds using heart rate and lactate data from Conconi tests. 
+It processes multiple athlete datasets, fits piecewise linear models, and compares threshold estimates across methods.
 
 ## 📚 Dataset Source
 This project uses data from the open-access repository:
@@ -43,11 +44,14 @@ Tests were conducted at the Human Performance Laboratory, School of Medicine, Tr
 
 
 ## 📊 Output
-PNG plots per athlete showing HR and lactate thresholds
 
-Aggregated metrics:
+ * Plots per athlete showing HR and lactate thresholds
 
-MAE, MDAE, ME, MDE, MAPE, MdAPE, MdPE and MdPE for speed, HR, and pace differences between methods
+* Aggregated metrics:
+
+MAE, MDAE, ME, MDE, MAPE, MDAPE, MDPE and MdPE for speed, HR, and pace differences between methods
+
+* Error distribution
 
 
 ## 🛠 Dependencies
